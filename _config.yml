@@ -31,45 +31,50 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Tons of formats.
+    description                           : There's a whopping number of 19 different formats to use!
+    fontawesome_icon_name                 : random
+    
+  - title                                 : Share Extension
+    description                           : It comes packed with an action extension that lets you select text anywhere in iOS, tap the Share button, and then you’ll find the “Convert Text” action. This will show you a preview of all available formats, and a simple tap on one of those will copy it to your clipboard, and you’ll be returned to the original app.
+    fontawesome_icon_name                 : share
+   
+  - title                                 : Siri Shortcuts Support
+    description                           : All formats are available to be used with Siri Shortcuts. Every time you copy or share the result of a text conversion, iOS will be made aware and can suggest these actions to you in the future. You can also manually add a format to Siri by going tapping on Settings, and then the “Add to Siri” button at the bottom.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Customisation
+    description                           : You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices.
+    fontawesome_icon_name                 : edit
+    
+  - title                                 : Titles
+    description                           : There's four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style.
+    fontawesome_icon_name                 : newspaper
+    
+  - title                                 : Common Transformations
+    description                           : All the basic text transformations are available: Uppercase, Lowercase, Capitalise, Capitalise Words, Sentence Case, and Reversed.
+    fontawesome_icon_name                 : font
+   
+  - title                                 : URLs
+    description                           : You can encode text to URL formatting, and also decode it.
     fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    
+  - title                                 : Strip HTML
+    description                           : You can extract any text from HTML code.
+    fontawesome_icon_name                 : code
+    
+  - title                                 : Programming Formats
+    description                           : There's four programming inspired formats to choose from: Camel Case, Pascal Case, Snake Case, and Kebab Case.
+    fontawesome_icon_name                 : keyboard
+    
+  - title                                 : Hashtags
+    description                           : Convert any group of words into hashtags, for easy social use.
+    fontawesome_icon_name                 : hashtag
+   
+  - title                                 : Mocking Spongebob
+    description                           : Just for fun, you can convert any text in to Mocking Spongebob format, so you seem just a tad sarcastic.
+    fontawesome_icon_name                 : grin-squint-tears
+ 
 
 
 
