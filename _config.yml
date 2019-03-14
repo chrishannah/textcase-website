@@ -48,11 +48,11 @@ features                                  :
     fontawesome_icon_name                 : edit
     
   - title                                 : Titles
-    description                           : There are four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style.
+    description                           : "There are four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style."
     fontawesome_icon_name                 : newspaper
     
   - title                                 : Common Transformations
-    description                           : All the basic text transformations are available: Uppercase, Lowercase, Capitalise, Capitalise Words, Sentence Case, and Reversed.
+    description                           : "All the basic text transformations are available: Uppercase, Lowercase, Capitalise, Capitalise Words, Sentence Case, and Reversed."
     fontawesome_icon_name                 : font
    
   - title                                 : URLs
@@ -64,7 +64,7 @@ features                                  :
     fontawesome_icon_name                 : code
     
   - title                                 : Programming Formats
-    description                           : There's four programming inspired formats to choose from: Camel Case, Pascal Case, Snake Case, and Kebab Case.
+    description                           : "There's four programming inspired formats to choose from: Camel Case, Pascal Case, Snake Case, and Kebab Case."
     fontawesome_icon_name                 : keyboard
     
   - title                                 : Hashtags
