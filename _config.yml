@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : edit
     
   - title                                 : Titles
-    description                           : There's four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style.
+    description                           : There are four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style.
     fontawesome_icon_name                 : newspaper
     
   - title                                 : Common Transformations
