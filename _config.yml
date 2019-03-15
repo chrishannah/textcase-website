@@ -83,7 +83,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.2
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://i0.wp.com/blog.chrishannah.me/wp-content/uploads/2019/01/Image-2.png?w=3000&ssl=1                   # Replace with alternative image path or image URL.
+cover_image                               : 
 cover_overlay_color                       : "#F11A19"
 cover_overlay_transparency                : 0.9
 
