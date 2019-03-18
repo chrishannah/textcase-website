@@ -32,7 +32,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Tons of formats.
-    description                           : There's a whopping number of 19 different formats to use!
+    description                           : There's a whopping number of 23 different formats to use!
     fontawesome_icon_name                 : random
     
   - title                                 : Share Extension
@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Customisation
-    description                           : You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices.
+    description                           : "There's a lot of customisation available in Text Case. The first one is the themes. There are two to choose from - Light and Dark. They change the whole interface of the app, and it also applies to the share extension. You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices."
     fontawesome_icon_name                 : edit
     
   - title                                 : Titles
@@ -75,6 +75,17 @@ features                                  :
     description                           : Just for fun, you can convert any text in to Mocking Spongebob format, so you seem just a tad sarcastic.
     fontawesome_icon_name                 : grin-squint-tears
  
+  - title                                 : Emoji
+    description                           : For the times when you don't want to use plain text, you can let Text Case convert your words to appropriate Emoji!
+    fontawesome_icon_name                 : grin-stars
+
+  - title                                 : Rot13
+    description                           : Have fun with your words by using the Rot13 cipher, to rotate each letter by 13 places.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : Base64
+    description                           : You can encode and decode any text to and from Base64 encoding.
+    fontawesome_icon_name                 : laptop-code
 
 
 
