@@ -87,7 +87,7 @@ cover_image                               :
 cover_overlay_color                       : "#F11A19"
 cover_overlay_transparency                : 0.9
 
-device_color                              : black
+device_color                              : white
 
 body_background_color                     : "ffffff"
 
