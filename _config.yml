@@ -19,7 +19,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Tons of formats.
-    description                           : There's a whopping number of 24 different formats to use!
+    description                           : There's a whopping number of 27 different formats to use!
     fontawesome_icon_name                 : random
     
   - title                                 : Share Extension
@@ -27,7 +27,7 @@ features                                  :
     fontawesome_icon_name                 : share
    
   - title                                 : Siri Shortcuts Support
-    description                           : All formats are available to be used with Siri Shortcuts. Every time you copy or share the result of a text conversion, iOS will be made aware and can suggest these actions to you in the future. You can also manually add a format to Siri by going tapping on Settings, and then the “Add to Siri” button at the bottom.
+    description                           : The "Format Text" action in Shortcuts will let you pass in any text as an input, choose one of the many formats, and then have the output passed back to you. This means that you can make use of all the functionality in Text Case, all from the Shortcuts app, and without it launching Text Case at all!
     fontawesome_icon_name                 : magic
     
   - title                                 : Customisation
@@ -49,6 +49,14 @@ features                                  :
   - title                                 : Strip HTML
     description                           : You can extract any text from HTML code.
     fontawesome_icon_name                 : code
+    
+  - title                                 : Strip Whitespace
+    description                           : Strip out all whitespace from text.
+    fontawesome_icon_name                 : broom
+    
+  - title                                 : Trim Whitespace
+    description                           : Remove any leading and trailing whitespace from text.
+    fontawesome_icon_name                 : backspace
     
   - title                                 : Programming Formats
     description                           : "There's four programming inspired formats to choose from: Camel Case, Pascal Case, Snake Case, and Kebab Case."
@@ -77,6 +85,10 @@ features                                  :
   - title                                 : Clap Case
     description                           : Add 👏 clapping 👏 hands 👏 between 👏 each 👏 word.
     fontawesome_icon_name                 : sign-language
+    
+  - title                                 : Shuffled
+    description                           : Randomise the order of text.
+    fontawesome_icon_name                 : wind
 
 # Theme Settings
 topbar_color                              : "#000000"
