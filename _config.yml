@@ -19,7 +19,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Tons of formats.
-    description                           : There's a whopping number of 27 different formats to use!
+    description                           : There's a whopping number of 32 different formats to use!
     fontawesome_icon_name                 : random
     
   - title                                 : Share Extension
@@ -41,6 +41,10 @@ features                                  :
   - title                                 : Common Transformations
     description                           : "All the basic text transformations are available: Uppercase, Lowercase, Capitalise, Capitalise Words, Sentence Case, and Reversed."
     fontawesome_icon_name                 : font
+
+  - title                                 : Markdown
+    description                           : "There are various different types of Markdown formats for you to use, such as Blockquotes, Code Blocks, Unordered Lists, and Ordered Lists. And you can also convert any Markdown formatted text into HTML!"
+    fontawesome_icon_name                 : markdown
    
   - title                                 : URLs
     description                           : You can encode text to URL formatting, and also decode it.
