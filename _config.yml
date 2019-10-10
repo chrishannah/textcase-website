@@ -31,7 +31,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Customisation
-    description                           : "There's a lot of customisation available in Text Case. The first one is the themes. There are two to choose from - Light and Dark. They change the whole interface of the app, and it also applies to the share extension. You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices."
+    description                           : "There's a lot of customisation available in Text Case. The first one is the themes. There are three to choose from - Light, Dark, and Black. They change the whole interface of the app, and it also applies to the share extension. You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices."
     fontawesome_icon_name                 : edit
     
   - title                                 : Titles
@@ -44,7 +44,11 @@ features                                  :
 
   - title                                 : Markdown
     description                           : "There are various different types of Markdown formats for you to use, such as Blockquotes, Code Blocks, Unordered Lists, and Ordered Lists. And you can also convert any Markdown formatted text into HTML!"
-    fontawesome_icon_name                 : markdown
+    fontawesome_icon_name                 : hashtag
+
+  - title                                 : Custom Dictionary
+    description                           : "When you use Title Case or Sentence case, you can specify a custom capitalisation using the custom dictionary. This is great for brand and product names, and makes the functionality of Title Case and Sentence case much more effective.There's a few handy nouns there to start you off."
+    fontawesome_icon_name                 : book
    
   - title                                 : URLs
     description                           : You can encode text to URL formatting, and also decode it.
