@@ -27,7 +27,7 @@ features                                  :
     fontawesome_icon_name                 : share
   
   - title                                 : macOS Action Extension
-    description                           : Select a portion of text anywhere on macOS, and you'll be able to find hte "Format Text" action in the share menu, which les you directly format that text and have the result copied to your clipboard.
+    description                           : Select a portion of text anywhere on macOS, and you'll be able to find the "Format Text" action in the share menu, which lets you directly format that text and have the result copied to your clipboard.
     fontawesome_icon_name                 : share
 
 
