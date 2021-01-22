@@ -1,5 +1,13 @@
 .imageWrapper {					// Sets the background image in the header area
 	height: 700px;
+
+	background: 
+		linear-gradient(
+		rgba($image-overlay-color, $image-overlay-transparency), 
+		rgba($image-overlay-color, $image-overlay-transparency)
+		   ),
+		
+		url($header-image);
 }
 
 .headerBackground {

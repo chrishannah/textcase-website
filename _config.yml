@@ -117,16 +117,16 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.2
+topbar_transparency                       : 0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : 
-cover_overlay_color                       : "#F11A19"
-cover_overlay_transparency                : 0.9
+cover_overlay_color                       : "#ffffff"
+cover_overlay_transparency                : 1
 
 device_color                              : black
 
-body_background_color                     : "ffffff"
+body_background_color                     : "eeeeee"
 
 link_color                                : "#F11A19"
 
