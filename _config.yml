@@ -1,7 +1,7 @@
 # App Info
 ios_app_id                                : 1407730596
 appstore_link                             : https://itunes.apple.com/us/app/text-case/id1407730596?ls=1&mt=8&at=1010l4Hj
-app_description                           : A simple utility that allows you to convert any text into various different formats.
+app_description                           : Automatable Text Transformations
 enable_smart_app_banner                   : true
 
 # Information About Yourself
@@ -124,7 +124,7 @@ cover_image                               :
 cover_overlay_color                       : "#F11A19"
 cover_overlay_transparency                : 0.9
 
-device_color                              : white
+device_color                              : black
 
 body_background_color                     : "ffffff"
 
