@@ -121,18 +121,18 @@ topbar_transparency                       : 0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : 
-cover_overlay_color                       : "#ffffff"
+cover_overlay_color                       : "#111111"
 cover_overlay_transparency                : 1
 
 device_color                              : black
 
-body_background_color                     : "#eeeeee"
+body_background_color                     : "#555555"
 
 link_color                                : "#F11A19"
 
-app_title_color                           : "#000000"
-app_price_color                           : "#000000"
-app_description_color                     : "#333333"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#cccccc"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
