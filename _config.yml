@@ -18,9 +18,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Tons of formats.
-    description                           : There's a whopping number of 35 different formats to use!
-    fontawesome_icon_name                 : random
+  - title                                 : Formats
+    description                           : There are over 40 formats to choose from, including multiple title case standards, Markdown formats, cleansing tools, and a lot more.
+    fontawesome_icon_name                 : font
+    
+  - title                                 : Complex Formats
+    description                           : Some formats, such as Replace All Occurrences and Add Prefix, can be customised with parameters to make it even more personal.
+    fontawesome_icon_name                 : keyboard
+    
+  - title                                 : Flows
+    description                           : Combine multiple formats together to create a flow. These let you create more custom text transformations, which better fit your use case.
+    fontawesome_icon_name                 : edit
+    
+  - title                                 : Shortcuts
+    description                           : All of the built-in formats and user-created flows are available to use in the Shortcuts app. Even the more complex formats, which have their own dedicated actions.
+    fontawesome_icon_name                 : magic
     
   - title                                 : iOS Share Extension
     description                           : It comes packed with an action extension that lets you select text anywhere in iOS, tap the Share button, and then you’ll find the “Convert Text” action. This will show you a preview of all available formats, and a simple tap on one of those will copy it to your clipboard, and you’ll be returned to the original app.
@@ -30,90 +42,9 @@ features                                  :
     description                           : Select a portion of text anywhere on macOS, and you'll be able to find the "Format Text" action in the share menu, which lets you directly format that text and have the result copied to your clipboard.
     fontawesome_icon_name                 : share
 
-
-  - title                                 : Siri Shortcuts Support
-    description                           : The "Format Text" action in Shortcuts will let you pass in any text as an input, choose one of the many formats, and then have the output passed back to you. This means that you can make use of all the functionality in Text Case, all from the Shortcuts app, and without it launching Text Case at all!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : Customisation
-    description                           : "There's a lot of customisation available in Text Case. The first one is the themes. There are three to choose from - Light, Dark, and Black, or you can choose to sync it with the system theme. They change the whole interface of the app, and it also applies to the share extension. You can also choose to show/hide specific formats by navigating to the Settings page, and also change the order they are displayed in. This will apply to both the app, and the action extension. All settings will be synced across your iCloud devices."
-    fontawesome_icon_name                 : edit
-    
-  - title                                 : Titles
-    description                           : "There are four different title case standards you can choose from: AP, APA, Modern Language Association, and Chicago Manual of Style."
-    fontawesome_icon_name                 : newspaper
-    
-  - title                                 : Common Transformations
-    description                           : "All the basic text transformations are available: Uppercase, Lowercase, Capitalise, Capitalise Words, Sentence Case, and Reversed."
-    fontawesome_icon_name                 : font
-
-  - title                                 : Smart Quotes
-    description                           : "Turn any straight single or double quotes into the correct quotation marks for your own localisation."
-    fontawesome_icon_name                 : quote-left
-
-  - title                                 : Markdown
-    description                           : "There are various different types of Markdown formats for you to use, such as Blockquotes, Code Blocks, Unordered Lists, and Ordered Lists. And you can also convert any Markdown formatted text into HTML!"
-    fontawesome_icon_name                 : hashtag
-
   - title                                 : Custom Dictionary
     description                           : "When you use Title Case or Sentence case, you can specify a custom capitalisation using the custom dictionary. This is great for brand and product names, and makes the functionality of Title Case and Sentence case much more effective.There's a few handy nouns there to start you off."
     fontawesome_icon_name                 : book
-   
-  - title                                 : URLs
-    description                           : You can encode text to URL formatting, and also decode it.
-    fontawesome_icon_name                 : link
-    
-  - title                                 : Strip HTML
-    description                           : You can extract any text from HTML code.
-    fontawesome_icon_name                 : code
-    
-  - title                                 : Strip Whitespace
-    description                           : Strip out all whitespace from text.
-    fontawesome_icon_name                 : broom
-    
-  - title                                 : Trim Whitespace
-    description                           : Remove any leading and trailing whitespace from text.
-    fontawesome_icon_name                 : backspace
-    
-  - title                                 : Programming Formats
-    description                           : "There's four programming inspired formats to choose from: Camel Case, Pascal Case, Snake Case, and Kebab Case."
-    fontawesome_icon_name                 : keyboard
-    
-  - title                                 : Hashtags
-    description                           : Convert any group of words into hashtags, for easy social use.
-    fontawesome_icon_name                 : hashtag
-   
-  - title                                 : Mocking Spongebob
-    description                           : Just for fun, you can convert any text in to Mocking Spongebob format, so you seem just a tad sarcastic.
-    fontawesome_icon_name                 : grin-squint-tears
- 
-  - title                                 : Emoji
-    description                           : For the times when you don't want to use plain text, you can let Text Case convert your words to appropriate Emoji!
-    fontawesome_icon_name                 : grin-stars
-
-  - title                                 : Rot13
-    description                           : Have fun with your words by using the Rot13 cipher, to rotate each letter by 13 places.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Base64
-    description                           : You can encode and decode any text to and from Base64 encoding.
-    fontawesome_icon_name                 : laptop-code
-
-  - title                                 : Clap Case
-    description                           : Add 👏 clapping 👏 hands 👏 between 👏 each 👏 word.
-    fontawesome_icon_name                 : sign-language
-    
-  - title                                 : Shuffled
-    description                           : Randomise the order of text.
-    fontawesome_icon_name                 : wind
-
-  - title                                 : Small Caps
-    description                           : "ᴅᴏᴇsɴ’ᴛ ᴛʜɪs ʟᴏᴏᴋ ᴄᴏᴏʟ?"
-    fontawesome_icon_name                 : text-height
-
-  - title                                 : Upside Down
-    description                           : "Ⅎoɹ ɐll ʇɥǝ ∀nsʇɹɐlᴉɐu dǝodlǝ˙"
-    fontawesome_icon_name                 : undo
 
 # Theme Settings
 topbar_color                              : "#000000"
