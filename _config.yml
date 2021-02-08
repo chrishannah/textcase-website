@@ -38,7 +38,11 @@ features                                  :
     description                           : It comes packed with an action extension that lets you select text anywhere in iOS, tap the Share button, and then you’ll find the “Convert Text” action. This will show you a preview of all available formats, and a simple tap on one of those will copy it to your clipboard, and you’ll be returned to the original app.
     fontawesome_icon_name                 : share
   
-  - title                                 : macOS Action Extension
+  - title                                 : macOS Services
+    description                           : All 48 formats can be accessed on the macOS app via the Services menu.
+    fontawesome_icon_name                 : hand-sparkles
+
+  - title                                 : macOS Share Extension
     description                           : Select a portion of text anywhere on macOS, and you'll be able to find the "Format Text" action in the share menu, which lets you directly format that text and have the result copied to your clipboard.
     fontawesome_icon_name                 : share
 
